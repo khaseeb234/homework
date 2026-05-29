@@ -5,8 +5,7 @@ user_number_2=int(input("Ввидите число"))
 user_number_3=int(input("Ввидите число"))
 summa=user_number+user_number_3+user_number_3
 product=user_number*user_number_2*user_number_3
-print(f"Сумма: {summa}")
-print(f"Произвдение: {product}")
+print(f"Сумма: {summa}", f"Произвдение: {product}")
 '''
 '''
 #2
