@@ -5,8 +5,8 @@ user_number_2=int(input("Ввидите число"))
 user_number_3=int(input("Ввидите число"))
 summa=user_number+user_number_3+user_number_3
 product=user_number*user_number_2*user_number_3
-print(f"Сумма: ",summa)
-print(f"Произвдение: ",product)
+print(f"Сумма: {summa}")
+print(f"Произвдение: {product}")
 '''
 '''
 #2
@@ -14,13 +14,13 @@ salary=float(input("Зарплата за месяц"))
 credit=float(input("Ежемесячный платеж по кредиту в банке"))
 communal=float(input("Задолжность за коммунальные услуги"))
 remainder=salary-credit-communal
-print(f"Остаток: ",remainder)
+print(f"Остаток: {remainder}")
 '''
 #3
 d1=float(input("Длина первой диагонали"))
 d2=float(input("Длина второй диагонали"))
 result=d1*d2/2
-print(f"Результат вычисление: ",result)
+print(f"Результат вычисление: {result}")
 '''
 #4
 text=str("\t\t To Be")
