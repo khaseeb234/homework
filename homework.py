@@ -82,7 +82,7 @@
 
 
 
-user_usd = float(input("Введите сумму в доллорах(USD): "))
+# user_usd = float(input("Введите сумму в доллорах(USD): "))
 
 # if user_usd <=0:
 #     print("Ошибка: сумма должна быть положительной")
@@ -125,3 +125,5 @@ user_usd = float(input("Введите сумму в доллорах(USD): "))
 #     else:
 #         print(f"Итоговая сумма без скидки: {user_coupon}")
 
+user = int(input("Введите число: "))
+print(user)
